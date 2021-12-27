@@ -1,4 +1,8 @@
-### Hi there 👋
+- Hi I'm YuDon Lee.
+- Now, I'm interested with System software and Apple platphom developer.
+- I’m currently learning iOS application.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudonlee&show_icons=true&theme=radical)
 
 <!--
 **yudonlee/yudonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
