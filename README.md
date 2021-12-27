@@ -2,7 +2,7 @@
   <h2>Introduction</h2>
   <p>✋ Hi I'm YuDon Lee.</p>
   <p>Now, I'm interested with System software and Apple platphom developer.</p>
-<a href="https://img.shields.io/badge/swift%205.4-white.svg?style=flat-square&logo=Swift" target="_blank"><img src="https://img.shields.io/badge/swift%205.4-white.svg?style=flat-square&logo=Swift"/></a>
+<a href="https://img.shields.io/badge/swift%205.4-black.svg?style=flat-square&logo=Swift" target="_blank"><img src="https://img.shields.io/badge/swift%205.4-black.svg?style=flat-square&logo=Swift"/></a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudonlee&show_icons=true&theme=radical)
 
