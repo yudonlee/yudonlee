@@ -1,7 +1,7 @@
 - ✋ Hi I'm YuDon Lee.     
 - I'm interested with System software and Apple platphom developer.     
 - I’m currently learning iOS application.     
-<img src="https://img.shields.io/badge/-Swift-blue?style=flat-square&logo=Swift&logoColor=F05138"/>
+<img src="https://img.shields.io/badge/-Swift-Black?style=flat-square&logo=Swift&logoColor=F05138"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudonlee&show_icons=true&theme=radical)
 
 <!--
